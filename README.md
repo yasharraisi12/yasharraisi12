@@ -14,3 +14,6 @@ Email: yashar.raisi12@gmail.com
 </p>
 <img width="1920" height="1080" alt="3D_Streamline_Analysis" src="https://github.com/user-attachments/assets/eb5359c2-7855-471f-930a-d7b3d18f41ed" />
 <img width="1920" height="1080" alt="Pressure_Distribution" src="https://github.com/user-attachments/assets/38c706b9-0c35-4991-a804-477e4ee5f0ac" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yasharraisi12/Room-Air-Conditioning-CFD/main/Images/Velocity_Magnitude_Distribution.png" alt="3D Room Airflow Distribution" width="100%">
+</p>
