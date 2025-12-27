@@ -6,7 +6,7 @@ With a strong background in managing interior design projects—from initial cli
 Email: yashar.raisi12@gmail.com 
 
 
-
+☀️ Wind Loading & Airflow Analysis over Solar Panel Arrays
 <img width="1920" height="1080" alt="Solar_Panel_Diagonal_Wind_Analysis" src="https://github.com/user-attachments/assets/9e5e3912-df79-488a-8287-1306636551a8" />
 
 <p align="center">
