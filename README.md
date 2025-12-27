@@ -8,7 +8,7 @@ Email: yashar.raisi12@gmail.com
 
 ☀️ Wind Loading & Airflow Analysis over Solar Panel Arrays
 <img width="1920" height="1080" alt="Solar_Panel_Diagonal_Wind_Analysis" src="https://github.com/user-attachments/assets/9e5e3912-df79-488a-8287-1306636551a8" />
-
+Global Airflow Pathlines
 <p align="center">
   <img src="https://github.com/yasharraisi12/Room-Air-Conditioning-CFD/blob/main/Images/Velocity_Magnitude_Distribution.png?raw=true" alt="3D Room Airflow Distribution" width="100%">
 </p>
