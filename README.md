@@ -2,6 +2,15 @@ I hold an Associate Degree in Architecture (Structural focus) and a Bachelor’s
 
 With a strong background in managing interior design projects—from initial client needs to final installation—I bridge the gap between digital simulations and real-world physical structures. I effectively leverage AI tools to optimize my engineering workflows and enhance the accuracy of environmental flow analyses.
 
+Community Impact & Engagement
+
+Total OpenFOAM Project Clones: 175+
+
+Unique Developers Reached: 115+
+
+Top Project: Room Air Conditioning CFD (90 clones in 14 days)
+
+
 📫 Connect with me:
 Email: yashar.raisi12@gmail.com 
 
